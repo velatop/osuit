@@ -1,0 +1,10 @@
+C:\Users\crist\source\repos\LabExamOne\LabExamOne\obj\Debug\LabExamOne.csproj.AssemblyReference.cache
+C:\Users\crist\source\repos\LabExamOne\LabExamOne\obj\Debug\LabExamOne.Properties.Resources.resources
+C:\Users\crist\source\repos\LabExamOne\LabExamOne\obj\Debug\LabExamOne.csproj.GenerateResource.cache
+C:\Users\crist\source\repos\LabExamOne\LabExamOne\obj\Debug\LabExamOne.csproj.CoreCompileInputs.cache
+C:\Users\crist\source\repos\LabExamOne\LabExamOne\bin\Debug\LabExamOne.exe.config
+C:\Users\crist\source\repos\LabExamOne\LabExamOne\bin\Debug\LabExamOne.exe
+C:\Users\crist\source\repos\LabExamOne\LabExamOne\bin\Debug\LabExamOne.pdb
+C:\Users\crist\source\repos\LabExamOne\LabExamOne\obj\Debug\LabExamOne.exe
+C:\Users\crist\source\repos\LabExamOne\LabExamOne\obj\Debug\LabExamOne.pdb
+C:\Users\crist\source\repos\LabExamOne\LabExamOne\obj\Debug\LabExamOne.ExamOne.resources

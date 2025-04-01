@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\crist\\Desktop\\LabOne\\LabExamOne\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5BE242A6-ED0E-4C9C-A3E7-EA4728612A58}|LabExamOne\\LabExamOne.csproj|C:\\Users\\crist\\Desktop\\LabOne\\LabExamOne\\labexamone\\examone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BE242A6-ED0E-4C9C-A3E7-EA4728612A58}|LabExamOne\\LabExamOne.csproj|solutionrelative:labexamone\\examone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BE242A6-ED0E-4C9C-A3E7-EA4728612A58}|LabExamOne\\LabExamOne.csproj|c:\\users\\crist\\desktop\\labone\\labexamone\\labexamone\\examone.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BE242A6-ED0E-4C9C-A3E7-EA4728612A58}|LabExamOne\\LabExamOne.csproj|solutionrelative:labexamone\\examone.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BE242A6-ED0E-4C9C-A3E7-EA4728612A58}|LabExamOne\\LabExamOne.csproj|C:\\Users\\crist\\Desktop\\LabOne\\LabExamOne\\labexamone\\examone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5BE242A6-ED0E-4C9C-A3E7-EA4728612A58}|LabExamOne\\LabExamOne.csproj|solutionrelative:labexamone\\examone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExamOne.cs",
+              "DocumentMoniker": "C:\\Users\\crist\\Desktop\\LabOne\\LabExamOne\\LabExamOne\\ExamOne.cs",
+              "RelativeDocumentMoniker": "LabExamOne\\ExamOne.cs",
+              "ToolTip": "C:\\Users\\crist\\Desktop\\LabOne\\LabExamOne\\LabExamOne\\ExamOne.cs",
+              "RelativeToolTip": "LabExamOne\\ExamOne.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T03:55:40.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExamOne.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\crist\\Desktop\\LabOne\\LabExamOne\\LabExamOne\\ExamOne.Designer.cs",
+              "RelativeDocumentMoniker": "LabExamOne\\ExamOne.Designer.cs",
+              "ToolTip": "C:\\Users\\crist\\Desktop\\LabOne\\LabExamOne\\LabExamOne\\ExamOne.Designer.cs",
+              "RelativeToolTip": "LabExamOne\\ExamOne.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T03:52:13.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ExamOne.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\crist\\Desktop\\LabOne\\LabExamOne\\LabExamOne\\ExamOne.cs",
+              "RelativeDocumentMoniker": "LabExamOne\\ExamOne.cs",
+              "ToolTip": "C:\\Users\\crist\\Desktop\\LabOne\\LabExamOne\\LabExamOne\\ExamOne.cs [Design]",
+              "RelativeToolTip": "LabExamOne\\ExamOne.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T03:52:01.504Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
