@@ -1,0 +1,20 @@
+C:\Users\crist\source\repos\Solution5Carcamo\Project5Carcamo\bin\Debug\Project5Carcamo.exe.config
+C:\Users\crist\source\repos\Solution5Carcamo\Project5Carcamo\bin\Debug\Project5Carcamo.exe
+C:\Users\crist\source\repos\Solution5Carcamo\Project5Carcamo\bin\Debug\Project5Carcamo.pdb
+C:\Users\crist\source\repos\Solution5Carcamo\Project5Carcamo\obj\Debug\Project5Carcamo.csproj.AssemblyReference.cache
+C:\Users\crist\source\repos\Solution5Carcamo\Project5Carcamo\obj\Debug\Project5Carcamo.frmChoices.resources
+C:\Users\crist\source\repos\Solution5Carcamo\Project5Carcamo\obj\Debug\Project5Carcamo.Properties.Resources.resources
+C:\Users\crist\source\repos\Solution5Carcamo\Project5Carcamo\obj\Debug\Project5Carcamo.csproj.GenerateResource.cache
+C:\Users\crist\source\repos\Solution5Carcamo\Project5Carcamo\obj\Debug\Project5Carcamo.csproj.CoreCompileInputs.cache
+C:\Users\crist\source\repos\Solution5Carcamo\Project5Carcamo\obj\Debug\Project5Carcamo.exe
+C:\Users\crist\source\repos\Solution5Carcamo\Project5Carcamo\obj\Debug\Project5Carcamo.pdb
+C:\Users\crist\Desktop\Week 5 - Programming Lab - Cristhian Carcamo\Solution5Carcamo\Project5Carcamo\bin\Debug\Project5Carcamo.exe.config
+C:\Users\crist\Desktop\Week 5 - Programming Lab - Cristhian Carcamo\Solution5Carcamo\Project5Carcamo\bin\Debug\Project5Carcamo.exe
+C:\Users\crist\Desktop\Week 5 - Programming Lab - Cristhian Carcamo\Solution5Carcamo\Project5Carcamo\bin\Debug\Project5Carcamo.pdb
+C:\Users\crist\Desktop\Week 5 - Programming Lab - Cristhian Carcamo\Solution5Carcamo\Project5Carcamo\obj\Debug\Project5Carcamo.csproj.AssemblyReference.cache
+C:\Users\crist\Desktop\Week 5 - Programming Lab - Cristhian Carcamo\Solution5Carcamo\Project5Carcamo\obj\Debug\Project5Carcamo.frmChoices.resources
+C:\Users\crist\Desktop\Week 5 - Programming Lab - Cristhian Carcamo\Solution5Carcamo\Project5Carcamo\obj\Debug\Project5Carcamo.Properties.Resources.resources
+C:\Users\crist\Desktop\Week 5 - Programming Lab - Cristhian Carcamo\Solution5Carcamo\Project5Carcamo\obj\Debug\Project5Carcamo.csproj.GenerateResource.cache
+C:\Users\crist\Desktop\Week 5 - Programming Lab - Cristhian Carcamo\Solution5Carcamo\Project5Carcamo\obj\Debug\Project5Carcamo.csproj.CoreCompileInputs.cache
+C:\Users\crist\Desktop\Week 5 - Programming Lab - Cristhian Carcamo\Solution5Carcamo\Project5Carcamo\obj\Debug\Project5Carcamo.exe
+C:\Users\crist\Desktop\Week 5 - Programming Lab - Cristhian Carcamo\Solution5Carcamo\Project5Carcamo\obj\Debug\Project5Carcamo.pdb
