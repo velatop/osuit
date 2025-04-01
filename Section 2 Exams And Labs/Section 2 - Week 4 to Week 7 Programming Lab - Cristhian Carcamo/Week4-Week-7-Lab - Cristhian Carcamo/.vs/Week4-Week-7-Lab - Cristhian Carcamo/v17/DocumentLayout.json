@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\crist\\Desktop\\Section 2 - Week 4 to Week 7 Programming Lab - Cristhian Carcamo\\Week4-Week-7-Lab - Cristhian Carcamo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C2E76CAD-BED7-4C4F-80DF-A9C65CCAF02A}|Week4-Week-7-Lab - Cristhian Carcamo\\Week4-Week-7-Lab - Cristhian Carcamo.csproj|C:\\Users\\crist\\Desktop\\Section 2 - Week 4 to Week 7 Programming Lab - Cristhian Carcamo\\Week4-Week-7-Lab - Cristhian Carcamo\\week4-week-7-lab - cristhian carcamo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2E76CAD-BED7-4C4F-80DF-A9C65CCAF02A}|Week4-Week-7-Lab - Cristhian Carcamo\\Week4-Week-7-Lab - Cristhian Carcamo.csproj|solutionrelative:week4-week-7-lab - cristhian carcamo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2E76CAD-BED7-4C4F-80DF-A9C65CCAF02A}|Week4-Week-7-Lab - Cristhian Carcamo\\Week4-Week-7-Lab - Cristhian Carcamo.csproj|c:\\users\\crist\\desktop\\section 2 - week 4 to week 7 programming lab - cristhian carcamo\\week4-week-7-lab - cristhian carcamo\\week4-week-7-lab - cristhian carcamo\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2E76CAD-BED7-4C4F-80DF-A9C65CCAF02A}|Week4-Week-7-Lab - Cristhian Carcamo\\Week4-Week-7-Lab - Cristhian Carcamo.csproj|solutionrelative:week4-week-7-lab - cristhian carcamo\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2E76CAD-BED7-4C4F-80DF-A9C65CCAF02A}|Week4-Week-7-Lab - Cristhian Carcamo\\Week4-Week-7-Lab - Cristhian Carcamo.csproj|c:\\users\\crist\\desktop\\section 2 - week 4 to week 7 programming lab - cristhian carcamo\\week4-week-7-lab - cristhian carcamo\\week4-week-7-lab - cristhian carcamo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C2E76CAD-BED7-4C4F-80DF-A9C65CCAF02A}|Week4-Week-7-Lab - Cristhian Carcamo\\Week4-Week-7-Lab - Cristhian Carcamo.csproj|solutionrelative:week4-week-7-lab - cristhian carcamo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2E76CAD-BED7-4C4F-80DF-A9C65CCAF02A}|Week4-Week-7-Lab - Cristhian Carcamo\\Week4-Week-7-Lab - Cristhian Carcamo.csproj|C:\\Users\\crist\\Desktop\\Section 2 - Week 4 to Week 7 Programming Lab - Cristhian Carcamo\\Week4-Week-7-Lab - Cristhian Carcamo\\week4-week-7-lab - cristhian carcamo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2E76CAD-BED7-4C4F-80DF-A9C65CCAF02A}|Week4-Week-7-Lab - Cristhian Carcamo\\Week4-Week-7-Lab - Cristhian Carcamo.csproj|solutionrelative:week4-week-7-lab - cristhian carcamo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 274,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\crist\\Desktop\\Section 2 - Week 4 to Week 7 Programming Lab - Cristhian Carcamo\\Week4-Week-7-Lab - Cristhian Carcamo\\Week4-Week-7-Lab - Cristhian Carcamo\\Program.cs",
+              "RelativeDocumentMoniker": "Week4-Week-7-Lab - Cristhian Carcamo\\Program.cs",
+              "ToolTip": "C:\\Users\\crist\\Desktop\\Section 2 - Week 4 to Week 7 Programming Lab - Cristhian Carcamo\\Week4-Week-7-Lab - Cristhian Carcamo\\Week4-Week-7-Lab - Cristhian Carcamo\\Program.cs",
+              "RelativeToolTip": "Week4-Week-7-Lab - Cristhian Carcamo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T09:34:23.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\crist\\Desktop\\Section 2 - Week 4 to Week 7 Programming Lab - Cristhian Carcamo\\Week4-Week-7-Lab - Cristhian Carcamo\\Week4-Week-7-Lab - Cristhian Carcamo\\Form1.cs",
+              "RelativeDocumentMoniker": "Week4-Week-7-Lab - Cristhian Carcamo\\Form1.cs",
+              "ToolTip": "C:\\Users\\crist\\Desktop\\Section 2 - Week 4 to Week 7 Programming Lab - Cristhian Carcamo\\Week4-Week-7-Lab - Cristhian Carcamo\\Week4-Week-7-Lab - Cristhian Carcamo\\Form1.cs",
+              "RelativeToolTip": "Week4-Week-7-Lab - Cristhian Carcamo\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAL0AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T08:58:09.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\crist\\Desktop\\Section 2 - Week 4 to Week 7 Programming Lab - Cristhian Carcamo\\Week4-Week-7-Lab - Cristhian Carcamo\\Week4-Week-7-Lab - Cristhian Carcamo\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Week4-Week-7-Lab - Cristhian Carcamo\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\crist\\Desktop\\Section 2 - Week 4 to Week 7 Programming Lab - Cristhian Carcamo\\Week4-Week-7-Lab - Cristhian Carcamo\\Week4-Week-7-Lab - Cristhian Carcamo\\Form1.Designer.cs",
+              "RelativeToolTip": "Week4-Week-7-Lab - Cristhian Carcamo\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T08:57:16.137Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 126,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\crist\\Desktop\\Section 2 - Week 4 to Week 7 Programming Lab - Cristhian Carcamo\\Week4-Week-7-Lab - Cristhian Carcamo\\Week4-Week-7-Lab - Cristhian Carcamo\\Form1.cs",
+              "RelativeDocumentMoniker": "Week4-Week-7-Lab - Cristhian Carcamo\\Form1.cs",
+              "ToolTip": "C:\\Users\\crist\\Desktop\\Section 2 - Week 4 to Week 7 Programming Lab - Cristhian Carcamo\\Week4-Week-7-Lab - Cristhian Carcamo\\Week4-Week-7-Lab - Cristhian Carcamo\\Form1.cs [Design]",
+              "RelativeToolTip": "Week4-Week-7-Lab - Cristhian Carcamo\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T08:56:37.457Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
