@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\crist\\source\\repos\\Week10ProgrammingLab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E910FAF8-5E58-4CB2-9280-AC9E33F9845B}|Week10ProgrammingLab\\Week10ProgrammingLab.csproj|C:\\Users\\crist\\source\\repos\\Week10ProgrammingLab\\week10programminglab\\rmradiostar.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E910FAF8-5E58-4CB2-9280-AC9E33F9845B}|Week10ProgrammingLab\\Week10ProgrammingLab.csproj|solutionrelative:week10programminglab\\rmradiostar.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E910FAF8-5E58-4CB2-9280-AC9E33F9845B}|Week10ProgrammingLab\\Week10ProgrammingLab.csproj|C:\\Users\\crist\\source\\repos\\Week10ProgrammingLab\\week10programminglab\\rmradiostar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E910FAF8-5E58-4CB2-9280-AC9E33F9845B}|Week10ProgrammingLab\\Week10ProgrammingLab.csproj|solutionrelative:week10programminglab\\rmradiostar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E910FAF8-5E58-4CB2-9280-AC9E33F9845B}|Week10ProgrammingLab\\Week10ProgrammingLab.csproj|C:\\Users\\crist\\source\\repos\\Week10ProgrammingLab\\week10programminglab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E910FAF8-5E58-4CB2-9280-AC9E33F9845B}|Week10ProgrammingLab\\Week10ProgrammingLab.csproj|solutionrelative:week10programminglab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E910FAF8-5E58-4CB2-9280-AC9E33F9845B}|Week10ProgrammingLab\\Week10ProgrammingLab.csproj|c:\\users\\crist\\source\\repos\\week10programminglab\\week10programminglab\\rmradiostar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E910FAF8-5E58-4CB2-9280-AC9E33F9845B}|Week10ProgrammingLab\\Week10ProgrammingLab.csproj|solutionrelative:week10programminglab\\rmradiostar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "rmRadioStar.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\crist\\source\\repos\\Week10ProgrammingLab\\Week10ProgrammingLab\\rmRadioStar.cs",
+              "RelativeDocumentMoniker": "Week10ProgrammingLab\\rmRadioStar.cs",
+              "ToolTip": "C:\\Users\\crist\\source\\repos\\Week10ProgrammingLab\\Week10ProgrammingLab\\rmRadioStar.cs [Design]",
+              "RelativeToolTip": "Week10ProgrammingLab\\rmRadioStar.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T14:41:01.108Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\crist\\source\\repos\\Week10ProgrammingLab\\Week10ProgrammingLab\\Program.cs",
+              "RelativeDocumentMoniker": "Week10ProgrammingLab\\Program.cs",
+              "ToolTip": "C:\\Users\\crist\\source\\repos\\Week10ProgrammingLab\\Week10ProgrammingLab\\Program.cs",
+              "RelativeToolTip": "Week10ProgrammingLab\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T15:33:02.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "rmRadioStar.cs",
+              "DocumentMoniker": "C:\\Users\\crist\\source\\repos\\Week10ProgrammingLab\\Week10ProgrammingLab\\rmRadioStar.cs",
+              "RelativeDocumentMoniker": "Week10ProgrammingLab\\rmRadioStar.cs",
+              "ToolTip": "C:\\Users\\crist\\source\\repos\\Week10ProgrammingLab\\Week10ProgrammingLab\\rmRadioStar.cs",
+              "RelativeToolTip": "Week10ProgrammingLab\\rmRadioStar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T15:02:31.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "rmRadioStar.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\crist\\source\\repos\\Week10ProgrammingLab\\Week10ProgrammingLab\\rmRadioStar.Designer.cs",
+              "RelativeDocumentMoniker": "Week10ProgrammingLab\\rmRadioStar.Designer.cs",
+              "ToolTip": "C:\\Users\\crist\\source\\repos\\Week10ProgrammingLab\\Week10ProgrammingLab\\rmRadioStar.Designer.cs",
+              "RelativeToolTip": "Week10ProgrammingLab\\rmRadioStar.Designer.cs",
+              "ViewState": "AgIAAAgBAAAAAAAAAAAuwAUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T15:01:27.714Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
