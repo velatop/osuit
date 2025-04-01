@@ -1,0 +1,20 @@
+C:\Users\crist\source\repos\Sec3LabExam-Carcamo\Sec3LabExam-Carcamo\bin\Debug\Sec3LabExam-Carcamo.exe.config
+C:\Users\crist\source\repos\Sec3LabExam-Carcamo\Sec3LabExam-Carcamo\bin\Debug\Sec3LabExam-Carcamo.exe
+C:\Users\crist\source\repos\Sec3LabExam-Carcamo\Sec3LabExam-Carcamo\bin\Debug\Sec3LabExam-Carcamo.pdb
+C:\Users\crist\source\repos\Sec3LabExam-Carcamo\Sec3LabExam-Carcamo\obj\Debug\Sec3LabExam-Carcamo.csproj.AssemblyReference.cache
+C:\Users\crist\source\repos\Sec3LabExam-Carcamo\Sec3LabExam-Carcamo\obj\Debug\Sec3LabExam_Carcamo.Properties.Resources.resources
+C:\Users\crist\source\repos\Sec3LabExam-Carcamo\Sec3LabExam-Carcamo\obj\Debug\Sec3LabExam-Carcamo.csproj.GenerateResource.cache
+C:\Users\crist\source\repos\Sec3LabExam-Carcamo\Sec3LabExam-Carcamo\obj\Debug\Sec3LabExam-Carcamo.csproj.CoreCompileInputs.cache
+C:\Users\crist\source\repos\Sec3LabExam-Carcamo\Sec3LabExam-Carcamo\obj\Debug\Sec3LabExam-Carcamo.exe
+C:\Users\crist\source\repos\Sec3LabExam-Carcamo\Sec3LabExam-Carcamo\obj\Debug\Sec3LabExam-Carcamo.pdb
+C:\Users\crist\source\repos\Sec3LabExam-Carcamo\Sec3LabExam-Carcamo\obj\Debug\Sec3LabExam_Carcamo.Form1.resources
+C:\Users\crist\Desktop\Lab Portion of the Section 3 Exam\Sec3LabExam-Carcamo\Sec3LabExam-Carcamo\bin\Debug\Sec3LabExam-Carcamo.exe.config
+C:\Users\crist\Desktop\Lab Portion of the Section 3 Exam\Sec3LabExam-Carcamo\Sec3LabExam-Carcamo\bin\Debug\Sec3LabExam-Carcamo.exe
+C:\Users\crist\Desktop\Lab Portion of the Section 3 Exam\Sec3LabExam-Carcamo\Sec3LabExam-Carcamo\bin\Debug\Sec3LabExam-Carcamo.pdb
+C:\Users\crist\Desktop\Lab Portion of the Section 3 Exam\Sec3LabExam-Carcamo\Sec3LabExam-Carcamo\obj\Debug\Sec3LabExam-Carcamo.csproj.AssemblyReference.cache
+C:\Users\crist\Desktop\Lab Portion of the Section 3 Exam\Sec3LabExam-Carcamo\Sec3LabExam-Carcamo\obj\Debug\Sec3LabExam_Carcamo.Form1.resources
+C:\Users\crist\Desktop\Lab Portion of the Section 3 Exam\Sec3LabExam-Carcamo\Sec3LabExam-Carcamo\obj\Debug\Sec3LabExam_Carcamo.Properties.Resources.resources
+C:\Users\crist\Desktop\Lab Portion of the Section 3 Exam\Sec3LabExam-Carcamo\Sec3LabExam-Carcamo\obj\Debug\Sec3LabExam-Carcamo.csproj.GenerateResource.cache
+C:\Users\crist\Desktop\Lab Portion of the Section 3 Exam\Sec3LabExam-Carcamo\Sec3LabExam-Carcamo\obj\Debug\Sec3LabExam-Carcamo.csproj.CoreCompileInputs.cache
+C:\Users\crist\Desktop\Lab Portion of the Section 3 Exam\Sec3LabExam-Carcamo\Sec3LabExam-Carcamo\obj\Debug\Sec3LabExam-Carcamo.exe
+C:\Users\crist\Desktop\Lab Portion of the Section 3 Exam\Sec3LabExam-Carcamo\Sec3LabExam-Carcamo\obj\Debug\Sec3LabExam-Carcamo.pdb
