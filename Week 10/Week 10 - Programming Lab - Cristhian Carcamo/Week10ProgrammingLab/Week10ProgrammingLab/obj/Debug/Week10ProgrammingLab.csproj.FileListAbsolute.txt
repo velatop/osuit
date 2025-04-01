@@ -1,0 +1,10 @@
+C:\Users\crist\source\repos\Week10ProgrammingLab\Week10ProgrammingLab\obj\Debug\Week10ProgrammingLab.csproj.AssemblyReference.cache
+C:\Users\crist\source\repos\Week10ProgrammingLab\Week10ProgrammingLab\obj\Debug\Week10ProgrammingLab.Properties.Resources.resources
+C:\Users\crist\source\repos\Week10ProgrammingLab\Week10ProgrammingLab\obj\Debug\Week10ProgrammingLab.frmRadioStar.resources
+C:\Users\crist\source\repos\Week10ProgrammingLab\Week10ProgrammingLab\obj\Debug\Week10ProgrammingLab.csproj.GenerateResource.cache
+C:\Users\crist\source\repos\Week10ProgrammingLab\Week10ProgrammingLab\obj\Debug\Week10ProgrammingLab.csproj.CoreCompileInputs.cache
+C:\Users\crist\source\repos\Week10ProgrammingLab\Week10ProgrammingLab\bin\Debug\Week10ProgrammingLab.exe.config
+C:\Users\crist\source\repos\Week10ProgrammingLab\Week10ProgrammingLab\bin\Debug\Week10ProgrammingLab.exe
+C:\Users\crist\source\repos\Week10ProgrammingLab\Week10ProgrammingLab\bin\Debug\Week10ProgrammingLab.pdb
+C:\Users\crist\source\repos\Week10ProgrammingLab\Week10ProgrammingLab\obj\Debug\Week10ProgrammingLab.exe
+C:\Users\crist\source\repos\Week10ProgrammingLab\Week10ProgrammingLab\obj\Debug\Week10ProgrammingLab.pdb
