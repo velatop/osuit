@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\crist\\Desktop\\Lab Portion Section 2 Exam - Carcamo\\Section2Exam-Carcamo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{74CA108A-69D9-4AB8-B273-E448E6E6B6E4}|Section2Exam-Carcamo\\Section2Exam-Carcamo.csproj|c:\\users\\crist\\desktop\\lab portion section 2 exam - carcamo\\section2exam-carcamo\\section2exam-carcamo\\frmlab.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{74CA108A-69D9-4AB8-B273-E448E6E6B6E4}|Section2Exam-Carcamo\\Section2Exam-Carcamo.csproj|solutionrelative:section2exam-carcamo\\frmlab.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74CA108A-69D9-4AB8-B273-E448E6E6B6E4}|Section2Exam-Carcamo\\Section2Exam-Carcamo.csproj|C:\\Users\\crist\\Desktop\\Lab Portion Section 2 Exam - Carcamo\\Section2Exam-Carcamo\\section2exam-carcamo\\frmlab.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74CA108A-69D9-4AB8-B273-E448E6E6B6E4}|Section2Exam-Carcamo\\Section2Exam-Carcamo.csproj|solutionrelative:section2exam-carcamo\\frmlab.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74CA108A-69D9-4AB8-B273-E448E6E6B6E4}|Section2Exam-Carcamo\\Section2Exam-Carcamo.csproj|C:\\Users\\crist\\Desktop\\Lab Portion Section 2 Exam - Carcamo\\Section2Exam-Carcamo\\section2exam-carcamo\\frmlab.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74CA108A-69D9-4AB8-B273-E448E6E6B6E4}|Section2Exam-Carcamo\\Section2Exam-Carcamo.csproj|solutionrelative:section2exam-carcamo\\frmlab.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmLab.cs",
+              "DocumentMoniker": "C:\\Users\\crist\\Desktop\\Lab Portion Section 2 Exam - Carcamo\\Section2Exam-Carcamo\\Section2Exam-Carcamo\\frmLab.cs",
+              "RelativeDocumentMoniker": "Section2Exam-Carcamo\\frmLab.cs",
+              "ToolTip": "C:\\Users\\crist\\Desktop\\Lab Portion Section 2 Exam - Carcamo\\Section2Exam-Carcamo\\Section2Exam-Carcamo\\frmLab.cs",
+              "RelativeToolTip": "Section2Exam-Carcamo\\frmLab.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T05:33:36.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmLab.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\crist\\Desktop\\Lab Portion Section 2 Exam - Carcamo\\Section2Exam-Carcamo\\Section2Exam-Carcamo\\frmLab.Designer.cs",
+              "RelativeDocumentMoniker": "Section2Exam-Carcamo\\frmLab.Designer.cs",
+              "ToolTip": "C:\\Users\\crist\\Desktop\\Lab Portion Section 2 Exam - Carcamo\\Section2Exam-Carcamo\\Section2Exam-Carcamo\\frmLab.Designer.cs",
+              "RelativeToolTip": "Section2Exam-Carcamo\\frmLab.Designer.cs",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAuwCkAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T05:32:54.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmLab.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\crist\\Desktop\\Lab Portion Section 2 Exam - Carcamo\\Section2Exam-Carcamo\\Section2Exam-Carcamo\\frmLab.cs",
+              "RelativeDocumentMoniker": "Section2Exam-Carcamo\\frmLab.cs",
+              "ToolTip": "C:\\Users\\crist\\Desktop\\Lab Portion Section 2 Exam - Carcamo\\Section2Exam-Carcamo\\Section2Exam-Carcamo\\frmLab.cs [Design]",
+              "RelativeToolTip": "Section2Exam-Carcamo\\frmLab.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T05:32:39.683Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

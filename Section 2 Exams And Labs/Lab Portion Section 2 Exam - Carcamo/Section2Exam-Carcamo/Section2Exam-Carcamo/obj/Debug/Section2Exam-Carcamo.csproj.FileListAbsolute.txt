@@ -1,0 +1,20 @@
+C:\Users\crist\source\repos\Section2Exam-Carcamo\Section2Exam-Carcamo\bin\Debug\Section2Exam-Carcamo.exe.config
+C:\Users\crist\source\repos\Section2Exam-Carcamo\Section2Exam-Carcamo\bin\Debug\Section2Exam-Carcamo.exe
+C:\Users\crist\source\repos\Section2Exam-Carcamo\Section2Exam-Carcamo\bin\Debug\Section2Exam-Carcamo.pdb
+C:\Users\crist\source\repos\Section2Exam-Carcamo\Section2Exam-Carcamo\obj\Debug\Section2Exam-Carcamo.csproj.AssemblyReference.cache
+C:\Users\crist\source\repos\Section2Exam-Carcamo\Section2Exam-Carcamo\obj\Debug\Section2Exam_Carcamo.Properties.Resources.resources
+C:\Users\crist\source\repos\Section2Exam-Carcamo\Section2Exam-Carcamo\obj\Debug\Section2Exam-Carcamo.csproj.GenerateResource.cache
+C:\Users\crist\source\repos\Section2Exam-Carcamo\Section2Exam-Carcamo\obj\Debug\Section2Exam-Carcamo.csproj.CoreCompileInputs.cache
+C:\Users\crist\source\repos\Section2Exam-Carcamo\Section2Exam-Carcamo\obj\Debug\Section2Exam-Carcamo.exe
+C:\Users\crist\source\repos\Section2Exam-Carcamo\Section2Exam-Carcamo\obj\Debug\Section2Exam-Carcamo.pdb
+C:\Users\crist\source\repos\Section2Exam-Carcamo\Section2Exam-Carcamo\obj\Debug\Section2Exam_Carcamo.frmLab.resources
+C:\Users\crist\Desktop\Lab Portion Section 2 Exam - Carcamo\Section2Exam-Carcamo\Section2Exam-Carcamo\bin\Debug\Section2Exam-Carcamo.exe.config
+C:\Users\crist\Desktop\Lab Portion Section 2 Exam - Carcamo\Section2Exam-Carcamo\Section2Exam-Carcamo\bin\Debug\Section2Exam-Carcamo.exe
+C:\Users\crist\Desktop\Lab Portion Section 2 Exam - Carcamo\Section2Exam-Carcamo\Section2Exam-Carcamo\bin\Debug\Section2Exam-Carcamo.pdb
+C:\Users\crist\Desktop\Lab Portion Section 2 Exam - Carcamo\Section2Exam-Carcamo\Section2Exam-Carcamo\obj\Debug\Section2Exam-Carcamo.csproj.AssemblyReference.cache
+C:\Users\crist\Desktop\Lab Portion Section 2 Exam - Carcamo\Section2Exam-Carcamo\Section2Exam-Carcamo\obj\Debug\Section2Exam_Carcamo.frmLab.resources
+C:\Users\crist\Desktop\Lab Portion Section 2 Exam - Carcamo\Section2Exam-Carcamo\Section2Exam-Carcamo\obj\Debug\Section2Exam_Carcamo.Properties.Resources.resources
+C:\Users\crist\Desktop\Lab Portion Section 2 Exam - Carcamo\Section2Exam-Carcamo\Section2Exam-Carcamo\obj\Debug\Section2Exam-Carcamo.csproj.GenerateResource.cache
+C:\Users\crist\Desktop\Lab Portion Section 2 Exam - Carcamo\Section2Exam-Carcamo\Section2Exam-Carcamo\obj\Debug\Section2Exam-Carcamo.csproj.CoreCompileInputs.cache
+C:\Users\crist\Desktop\Lab Portion Section 2 Exam - Carcamo\Section2Exam-Carcamo\Section2Exam-Carcamo\obj\Debug\Section2Exam-Carcamo.exe
+C:\Users\crist\Desktop\Lab Portion Section 2 Exam - Carcamo\Section2Exam-Carcamo\Section2Exam-Carcamo\obj\Debug\Section2Exam-Carcamo.pdb
