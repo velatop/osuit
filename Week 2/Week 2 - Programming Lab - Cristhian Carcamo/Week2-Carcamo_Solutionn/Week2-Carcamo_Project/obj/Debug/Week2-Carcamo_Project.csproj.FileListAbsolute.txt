@@ -1,0 +1,10 @@
+C:\Users\crist\source\repos\Week2-Carcamo_Solutionn\Week2-Carcamo_Project\bin\Debug\Week2-Carcamo_Project.exe.config
+C:\Users\crist\source\repos\Week2-Carcamo_Solutionn\Week2-Carcamo_Project\bin\Debug\Week2-Carcamo_Project.exe
+C:\Users\crist\source\repos\Week2-Carcamo_Solutionn\Week2-Carcamo_Project\bin\Debug\Week2-Carcamo_Project.pdb
+C:\Users\crist\source\repos\Week2-Carcamo_Solutionn\Week2-Carcamo_Project\obj\Debug\Week2-Carcamo_Project.csproj.AssemblyReference.cache
+C:\Users\crist\source\repos\Week2-Carcamo_Solutionn\Week2-Carcamo_Project\obj\Debug\Week2_Carcamo_Project.Properties.Resources.resources
+C:\Users\crist\source\repos\Week2-Carcamo_Solutionn\Week2-Carcamo_Project\obj\Debug\Week2-Carcamo_Project.csproj.GenerateResource.cache
+C:\Users\crist\source\repos\Week2-Carcamo_Solutionn\Week2-Carcamo_Project\obj\Debug\Week2-Carcamo_Project.csproj.CoreCompileInputs.cache
+C:\Users\crist\source\repos\Week2-Carcamo_Solutionn\Week2-Carcamo_Project\obj\Debug\Week2-Carcamo_Project.exe
+C:\Users\crist\source\repos\Week2-Carcamo_Solutionn\Week2-Carcamo_Project\obj\Debug\Week2-Carcamo_Project.pdb
+C:\Users\crist\source\repos\Week2-Carcamo_Solutionn\Week2-Carcamo_Project\obj\Debug\Week2_Carcamo_Project.frmSummer2023.resources

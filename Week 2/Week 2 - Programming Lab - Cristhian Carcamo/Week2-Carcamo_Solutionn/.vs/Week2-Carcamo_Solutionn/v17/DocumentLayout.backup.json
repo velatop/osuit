@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\crist\\Desktop\\Week 2 - Programming Lab - Cristhian Carcamo\\Week2-Carcamo_Solutionn\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C6C4D7FA-7457-4123-A907-E3115299CAF2}|Week2-Carcamo_Project\\Week2-Carcamo_Project.csproj|C:\\Users\\crist\\Desktop\\Week 2 - Programming Lab - Cristhian Carcamo\\Week2-Carcamo_Solutionn\\week2-carcamo_project\\frmsummer2023.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6C4D7FA-7457-4123-A907-E3115299CAF2}|Week2-Carcamo_Project\\Week2-Carcamo_Project.csproj|solutionrelative:week2-carcamo_project\\frmsummer2023.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6C4D7FA-7457-4123-A907-E3115299CAF2}|Week2-Carcamo_Project\\Week2-Carcamo_Project.csproj|C:\\Users\\crist\\Desktop\\Week 2 - Programming Lab - Cristhian Carcamo\\Week2-Carcamo_Solutionn\\week2-carcamo_project\\frmsummer2023.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6C4D7FA-7457-4123-A907-E3115299CAF2}|Week2-Carcamo_Project\\Week2-Carcamo_Project.csproj|solutionrelative:week2-carcamo_project\\frmsummer2023.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6C4D7FA-7457-4123-A907-E3115299CAF2}|Week2-Carcamo_Project\\Week2-Carcamo_Project.csproj|c:\\users\\crist\\desktop\\week 2 - programming lab - cristhian carcamo\\week2-carcamo_solutionn\\week2-carcamo_project\\frmsummer2023.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C6C4D7FA-7457-4123-A907-E3115299CAF2}|Week2-Carcamo_Project\\Week2-Carcamo_Project.csproj|solutionrelative:week2-carcamo_project\\frmsummer2023.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 274,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmSummer2023.cs",
+              "DocumentMoniker": "C:\\Users\\crist\\Desktop\\Week 2 - Programming Lab - Cristhian Carcamo\\Week2-Carcamo_Solutionn\\Week2-Carcamo_Project\\frmSummer2023.cs",
+              "RelativeDocumentMoniker": "Week2-Carcamo_Project\\frmSummer2023.cs",
+              "ToolTip": "C:\\Users\\crist\\Desktop\\Week 2 - Programming Lab - Cristhian Carcamo\\Week2-Carcamo_Solutionn\\Week2-Carcamo_Project\\frmSummer2023.cs",
+              "RelativeToolTip": "Week2-Carcamo_Project\\frmSummer2023.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAkwA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T07:49:53.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmSummer2023.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\crist\\Desktop\\Week 2 - Programming Lab - Cristhian Carcamo\\Week2-Carcamo_Solutionn\\Week2-Carcamo_Project\\frmSummer2023.Designer.cs",
+              "RelativeDocumentMoniker": "Week2-Carcamo_Project\\frmSummer2023.Designer.cs",
+              "ToolTip": "C:\\Users\\crist\\Desktop\\Week 2 - Programming Lab - Cristhian Carcamo\\Week2-Carcamo_Solutionn\\Week2-Carcamo_Project\\frmSummer2023.Designer.cs",
+              "RelativeToolTip": "Week2-Carcamo_Project\\frmSummer2023.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T07:45:39.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmSummer2023.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\crist\\Desktop\\Week 2 - Programming Lab - Cristhian Carcamo\\Week2-Carcamo_Solutionn\\Week2-Carcamo_Project\\frmSummer2023.cs",
+              "RelativeDocumentMoniker": "Week2-Carcamo_Project\\frmSummer2023.cs",
+              "ToolTip": "C:\\Users\\crist\\Desktop\\Week 2 - Programming Lab - Cristhian Carcamo\\Week2-Carcamo_Solutionn\\Week2-Carcamo_Project\\frmSummer2023.cs [Design]",
+              "RelativeToolTip": "Week2-Carcamo_Project\\frmSummer2023.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T07:45:28.369Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
