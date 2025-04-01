@@ -1,0 +1,10 @@
+C:\Users\crist\source\repos\Week8ProgrammingLab\Week8ProgrammingLab\bin\Debug\Week8ProgrammingLab.exe.config
+C:\Users\crist\source\repos\Week8ProgrammingLab\Week8ProgrammingLab\bin\Debug\Week8ProgrammingLab.exe
+C:\Users\crist\source\repos\Week8ProgrammingLab\Week8ProgrammingLab\bin\Debug\Week8ProgrammingLab.pdb
+C:\Users\crist\source\repos\Week8ProgrammingLab\Week8ProgrammingLab\obj\Debug\Week8ProgrammingLab.csproj.AssemblyReference.cache
+C:\Users\crist\source\repos\Week8ProgrammingLab\Week8ProgrammingLab\obj\Debug\Week8ProgrammingLab.Properties.Resources.resources
+C:\Users\crist\source\repos\Week8ProgrammingLab\Week8ProgrammingLab\obj\Debug\Week8ProgrammingLab.csproj.GenerateResource.cache
+C:\Users\crist\source\repos\Week8ProgrammingLab\Week8ProgrammingLab\obj\Debug\Week8ProgrammingLab.csproj.CoreCompileInputs.cache
+C:\Users\crist\source\repos\Week8ProgrammingLab\Week8ProgrammingLab\obj\Debug\Week8ProgrammingLab.exe
+C:\Users\crist\source\repos\Week8ProgrammingLab\Week8ProgrammingLab\obj\Debug\Week8ProgrammingLab.pdb
+C:\Users\crist\source\repos\Week8ProgrammingLab\Week8ProgrammingLab\obj\Debug\Week8ProgrammingLab.frmCollections.resources
