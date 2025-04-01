@@ -1,0 +1,10 @@
+C:\Users\crist\source\repos\Week 4 - Programming Lab\Week 4 - Programming Lab\obj\Debug\Week 4 - Programming Lab.csproj.AssemblyReference.cache
+C:\Users\crist\source\repos\Week 4 - Programming Lab\Week 4 - Programming Lab\obj\Debug\Week_4___Programming_Lab.frmOfDataTypes.resources
+C:\Users\crist\source\repos\Week 4 - Programming Lab\Week 4 - Programming Lab\obj\Debug\Week_4___Programming_Lab.Properties.Resources.resources
+C:\Users\crist\source\repos\Week 4 - Programming Lab\Week 4 - Programming Lab\obj\Debug\Week 4 - Programming Lab.csproj.GenerateResource.cache
+C:\Users\crist\source\repos\Week 4 - Programming Lab\Week 4 - Programming Lab\obj\Debug\Week 4 - Programming Lab.csproj.CoreCompileInputs.cache
+C:\Users\crist\source\repos\Week 4 - Programming Lab\Week 4 - Programming Lab\bin\Debug\Week 4 - Programming Lab.exe.config
+C:\Users\crist\source\repos\Week 4 - Programming Lab\Week 4 - Programming Lab\bin\Debug\Week 4 - Programming Lab.exe
+C:\Users\crist\source\repos\Week 4 - Programming Lab\Week 4 - Programming Lab\bin\Debug\Week 4 - Programming Lab.pdb
+C:\Users\crist\source\repos\Week 4 - Programming Lab\Week 4 - Programming Lab\obj\Debug\Week 4 - Programming Lab.exe
+C:\Users\crist\source\repos\Week 4 - Programming Lab\Week 4 - Programming Lab\obj\Debug\Week 4 - Programming Lab.pdb

@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\crist\\source\\repos\\Week 4 - Programming Lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{65EF9613-4090-4FCD-87AC-787F5A1711AE}|Week 4 - Programming Lab\\Week 4 - Programming Lab.csproj|c:\\users\\crist\\source\\repos\\week 4 - programming lab\\week 4 - programming lab\\frmofdatatypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{65EF9613-4090-4FCD-87AC-787F5A1711AE}|Week 4 - Programming Lab\\Week 4 - Programming Lab.csproj|solutionrelative:week 4 - programming lab\\frmofdatatypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65EF9613-4090-4FCD-87AC-787F5A1711AE}|Week 4 - Programming Lab\\Week 4 - Programming Lab.csproj|c:\\users\\crist\\source\\repos\\week 4 - programming lab\\week 4 - programming lab\\frmofdatatypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65EF9613-4090-4FCD-87AC-787F5A1711AE}|Week 4 - Programming Lab\\Week 4 - Programming Lab.csproj|solutionrelative:week 4 - programming lab\\frmofdatatypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65EF9613-4090-4FCD-87AC-787F5A1711AE}|Week 4 - Programming Lab\\Week 4 - Programming Lab.csproj|c:\\users\\crist\\source\\repos\\week 4 - programming lab\\week 4 - programming lab\\frmofdatatypes.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65EF9613-4090-4FCD-87AC-787F5A1711AE}|Week 4 - Programming Lab\\Week 4 - Programming Lab.csproj|solutionrelative:week 4 - programming lab\\frmofdatatypes.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65EF9613-4090-4FCD-87AC-787F5A1711AE}|Week 4 - Programming Lab\\Week 4 - Programming Lab.csproj|c:\\users\\crist\\source\\repos\\week 4 - programming lab\\week 4 - programming lab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65EF9613-4090-4FCD-87AC-787F5A1711AE}|Week 4 - Programming Lab\\Week 4 - Programming Lab.csproj|solutionrelative:week 4 - programming lab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 305,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\crist\\source\\repos\\Week 4 - Programming Lab\\Week 4 - Programming Lab\\Program.cs",
+              "RelativeDocumentMoniker": "Week 4 - Programming Lab\\Program.cs",
+              "ToolTip": "C:\\Users\\crist\\source\\repos\\Week 4 - Programming Lab\\Week 4 - Programming Lab\\Program.cs",
+              "RelativeToolTip": "Week 4 - Programming Lab\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T06:13:01.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmOfDataTypes.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\crist\\source\\repos\\Week 4 - Programming Lab\\Week 4 - Programming Lab\\frmOfDataTypes.cs",
+              "RelativeDocumentMoniker": "Week 4 - Programming Lab\\frmOfDataTypes.cs",
+              "ToolTip": "C:\\Users\\crist\\source\\repos\\Week 4 - Programming Lab\\Week 4 - Programming Lab\\frmOfDataTypes.cs [Design]",
+              "RelativeToolTip": "Week 4 - Programming Lab\\frmOfDataTypes.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T05:43:44.283Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmOfDataTypes.cs",
+              "DocumentMoniker": "C:\\Users\\crist\\source\\repos\\Week 4 - Programming Lab\\Week 4 - Programming Lab\\frmOfDataTypes.cs",
+              "RelativeDocumentMoniker": "Week 4 - Programming Lab\\frmOfDataTypes.cs",
+              "ToolTip": "C:\\Users\\crist\\source\\repos\\Week 4 - Programming Lab\\Week 4 - Programming Lab\\frmOfDataTypes.cs",
+              "RelativeToolTip": "Week 4 - Programming Lab\\frmOfDataTypes.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAADgvx8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T03:41:31.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmOfDataTypes.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\crist\\source\\repos\\Week 4 - Programming Lab\\Week 4 - Programming Lab\\frmOfDataTypes.Designer.cs",
+              "RelativeDocumentMoniker": "Week 4 - Programming Lab\\frmOfDataTypes.Designer.cs",
+              "ToolTip": "C:\\Users\\crist\\source\\repos\\Week 4 - Programming Lab\\Week 4 - Programming Lab\\frmOfDataTypes.Designer.cs",
+              "RelativeToolTip": "Week 4 - Programming Lab\\frmOfDataTypes.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T03:41:25.924Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
