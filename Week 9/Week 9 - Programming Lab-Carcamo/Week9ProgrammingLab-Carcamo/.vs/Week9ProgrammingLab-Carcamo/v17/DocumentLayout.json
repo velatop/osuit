@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\crist\\Desktop\\Week 9 - Programming Lab-Carcamo\\Week9ProgrammingLab-Carcamo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AEE65EB7-5C02-4239-B1EE-967864675B02}|Week9ProgrammingLab-Carcamo\\Week9ProgrammingLab-Carcamo.csproj|C:\\Users\\crist\\Desktop\\Week 9 - Programming Lab-Carcamo\\Week9ProgrammingLab-Carcamo\\week9programminglab-carcamo\\frmcheckdigit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEE65EB7-5C02-4239-B1EE-967864675B02}|Week9ProgrammingLab-Carcamo\\Week9ProgrammingLab-Carcamo.csproj|solutionrelative:week9programminglab-carcamo\\frmcheckdigit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEE65EB7-5C02-4239-B1EE-967864675B02}|Week9ProgrammingLab-Carcamo\\Week9ProgrammingLab-Carcamo.csproj|c:\\users\\crist\\desktop\\week 9 - programming lab-carcamo\\week9programminglab-carcamo\\week9programminglab-carcamo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEE65EB7-5C02-4239-B1EE-967864675B02}|Week9ProgrammingLab-Carcamo\\Week9ProgrammingLab-Carcamo.csproj|solutionrelative:week9programminglab-carcamo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEE65EB7-5C02-4239-B1EE-967864675B02}|Week9ProgrammingLab-Carcamo\\Week9ProgrammingLab-Carcamo.csproj|C:\\Users\\crist\\Desktop\\Week 9 - Programming Lab-Carcamo\\Week9ProgrammingLab-Carcamo\\week9programminglab-carcamo\\frmcheckdigit.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEE65EB7-5C02-4239-B1EE-967864675B02}|Week9ProgrammingLab-Carcamo\\Week9ProgrammingLab-Carcamo.csproj|solutionrelative:week9programminglab-carcamo\\frmcheckdigit.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEE65EB7-5C02-4239-B1EE-967864675B02}|Week9ProgrammingLab-Carcamo\\Week9ProgrammingLab-Carcamo.csproj|C:\\Users\\crist\\Desktop\\Week 9 - Programming Lab-Carcamo\\Week9ProgrammingLab-Carcamo\\week9programminglab-carcamo\\frmcheckdigit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AEE65EB7-5C02-4239-B1EE-967864675B02}|Week9ProgrammingLab-Carcamo\\Week9ProgrammingLab-Carcamo.csproj|solutionrelative:week9programminglab-carcamo\\frmcheckdigit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 274,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\crist\\Desktop\\Week 9 - Programming Lab-Carcamo\\Week9ProgrammingLab-Carcamo\\Week9ProgrammingLab-Carcamo\\Program.cs",
+              "RelativeDocumentMoniker": "Week9ProgrammingLab-Carcamo\\Program.cs",
+              "ToolTip": "C:\\Users\\crist\\Desktop\\Week 9 - Programming Lab-Carcamo\\Week9ProgrammingLab-Carcamo\\Week9ProgrammingLab-Carcamo\\Program.cs",
+              "RelativeToolTip": "Week9ProgrammingLab-Carcamo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T22:38:43.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmCheckDigit.cs",
+              "DocumentMoniker": "C:\\Users\\crist\\Desktop\\Week 9 - Programming Lab-Carcamo\\Week9ProgrammingLab-Carcamo\\Week9ProgrammingLab-Carcamo\\frmCheckDigit.cs",
+              "RelativeDocumentMoniker": "Week9ProgrammingLab-Carcamo\\frmCheckDigit.cs",
+              "ToolTip": "C:\\Users\\crist\\Desktop\\Week 9 - Programming Lab-Carcamo\\Week9ProgrammingLab-Carcamo\\Week9ProgrammingLab-Carcamo\\frmCheckDigit.cs",
+              "RelativeToolTip": "Week9ProgrammingLab-Carcamo\\frmCheckDigit.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T21:49:58.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmCheckDigit.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\crist\\Desktop\\Week 9 - Programming Lab-Carcamo\\Week9ProgrammingLab-Carcamo\\Week9ProgrammingLab-Carcamo\\frmCheckDigit.Designer.cs",
+              "RelativeDocumentMoniker": "Week9ProgrammingLab-Carcamo\\frmCheckDigit.Designer.cs",
+              "ToolTip": "C:\\Users\\crist\\Desktop\\Week 9 - Programming Lab-Carcamo\\Week9ProgrammingLab-Carcamo\\Week9ProgrammingLab-Carcamo\\frmCheckDigit.Designer.cs",
+              "RelativeToolTip": "Week9ProgrammingLab-Carcamo\\frmCheckDigit.Designer.cs",
+              "ViewState": "AgIAAJMAAAAAAAAAAAAuwCIAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T21:49:53.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmCheckDigit.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\crist\\Desktop\\Week 9 - Programming Lab-Carcamo\\Week9ProgrammingLab-Carcamo\\Week9ProgrammingLab-Carcamo\\frmCheckDigit.cs",
+              "RelativeDocumentMoniker": "Week9ProgrammingLab-Carcamo\\frmCheckDigit.cs",
+              "ToolTip": "C:\\Users\\crist\\Desktop\\Week 9 - Programming Lab-Carcamo\\Week9ProgrammingLab-Carcamo\\Week9ProgrammingLab-Carcamo\\frmCheckDigit.cs [Design]",
+              "RelativeToolTip": "Week9ProgrammingLab-Carcamo\\frmCheckDigit.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T21:25:32.98Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
