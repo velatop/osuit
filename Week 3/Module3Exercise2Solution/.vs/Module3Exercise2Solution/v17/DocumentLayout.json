@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\crist\\Desktop\\Module3Exercise2Solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E09E86C-8542-4DA3-9790-B9825C476D4A}|Module3Exercise2Project\\Module3Exercise2Project.csproj|c:\\users\\crist\\desktop\\module3exercise2solution\\module3exercise2project\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E09E86C-8542-4DA3-9790-B9825C476D4A}|Module3Exercise2Project\\Module3Exercise2Project.csproj|solutionrelative:module3exercise2project\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E09E86C-8542-4DA3-9790-B9825C476D4A}|Module3Exercise2Project\\Module3Exercise2Project.csproj|C:\\Users\\crist\\Desktop\\Module3Exercise2Solution\\module3exercise2project\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9E09E86C-8542-4DA3-9790-B9825C476D4A}|Module3Exercise2Project\\Module3Exercise2Project.csproj|solutionrelative:module3exercise2project\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E09E86C-8542-4DA3-9790-B9825C476D4A}|Module3Exercise2Project\\Module3Exercise2Project.csproj|C:\\Users\\crist\\Desktop\\Module3Exercise2Solution\\module3exercise2project\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E09E86C-8542-4DA3-9790-B9825C476D4A}|Module3Exercise2Project\\Module3Exercise2Project.csproj|solutionrelative:module3exercise2project\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\crist\\Desktop\\Module3Exercise2Solution\\Module3Exercise2Project\\Form1.cs",
+              "RelativeDocumentMoniker": "Module3Exercise2Project\\Form1.cs",
+              "ToolTip": "C:\\Users\\crist\\Desktop\\Module3Exercise2Solution\\Module3Exercise2Project\\Form1.cs",
+              "RelativeToolTip": "Module3Exercise2Project\\Form1.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwA8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T21:45:01.159Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\crist\\Desktop\\Module3Exercise2Solution\\Module3Exercise2Project\\Form1.cs",
+              "RelativeDocumentMoniker": "Module3Exercise2Project\\Form1.cs",
+              "ToolTip": "C:\\Users\\crist\\Desktop\\Module3Exercise2Solution\\Module3Exercise2Project\\Form1.cs [Design]",
+              "RelativeToolTip": "Module3Exercise2Project\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T21:56:35.061Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\crist\\Desktop\\Module3Exercise2Solution\\Module3Exercise2Project\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Module3Exercise2Project\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\crist\\Desktop\\Module3Exercise2Solution\\Module3Exercise2Project\\Form1.Designer.cs",
+              "RelativeToolTip": "Module3Exercise2Project\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAG4AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T21:44:49.691Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
