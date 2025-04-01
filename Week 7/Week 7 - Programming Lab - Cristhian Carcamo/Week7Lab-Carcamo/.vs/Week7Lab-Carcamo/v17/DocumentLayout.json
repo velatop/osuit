@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\crist\\Desktop\\Week 7 - Programming Lab - Cristhian Carcamo\\Week7Lab-Carcamo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A02CB09E-FA59-4612-928F-391648FF22F0}|Week7Lab-Carcamo\\Week7Lab-Carcamo.csproj|c:\\users\\crist\\desktop\\week 7 - programming lab - cristhian carcamo\\week7lab-carcamo\\week7lab-carcamo\\frmrealid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A02CB09E-FA59-4612-928F-391648FF22F0}|Week7Lab-Carcamo\\Week7Lab-Carcamo.csproj|solutionrelative:week7lab-carcamo\\frmrealid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A02CB09E-FA59-4612-928F-391648FF22F0}|Week7Lab-Carcamo\\Week7Lab-Carcamo.csproj|C:\\Users\\crist\\Desktop\\Week 7 - Programming Lab - Cristhian Carcamo\\Week7Lab-Carcamo\\week7lab-carcamo\\frmrealid.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A02CB09E-FA59-4612-928F-391648FF22F0}|Week7Lab-Carcamo\\Week7Lab-Carcamo.csproj|solutionrelative:week7lab-carcamo\\frmrealid.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A02CB09E-FA59-4612-928F-391648FF22F0}|Week7Lab-Carcamo\\Week7Lab-Carcamo.csproj|C:\\Users\\crist\\Desktop\\Week 7 - Programming Lab - Cristhian Carcamo\\Week7Lab-Carcamo\\week7lab-carcamo\\frmrealid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A02CB09E-FA59-4612-928F-391648FF22F0}|Week7Lab-Carcamo\\Week7Lab-Carcamo.csproj|solutionrelative:week7lab-carcamo\\frmrealid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 274,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmRealID.cs",
+              "DocumentMoniker": "C:\\Users\\crist\\Desktop\\Week 7 - Programming Lab - Cristhian Carcamo\\Week7Lab-Carcamo\\Week7Lab-Carcamo\\frmRealID.cs",
+              "RelativeDocumentMoniker": "Week7Lab-Carcamo\\frmRealID.cs",
+              "ToolTip": "C:\\Users\\crist\\Desktop\\Week 7 - Programming Lab - Cristhian Carcamo\\Week7Lab-Carcamo\\Week7Lab-Carcamo\\frmRealID.cs",
+              "RelativeToolTip": "Week7Lab-Carcamo\\frmRealID.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T06:36:45.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmRealID.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\crist\\Desktop\\Week 7 - Programming Lab - Cristhian Carcamo\\Week7Lab-Carcamo\\Week7Lab-Carcamo\\frmRealID.Designer.cs",
+              "RelativeDocumentMoniker": "Week7Lab-Carcamo\\frmRealID.Designer.cs",
+              "ToolTip": "C:\\Users\\crist\\Desktop\\Week 7 - Programming Lab - Cristhian Carcamo\\Week7Lab-Carcamo\\Week7Lab-Carcamo\\frmRealID.Designer.cs",
+              "RelativeToolTip": "Week7Lab-Carcamo\\frmRealID.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T06:36:39.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmRealID.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\crist\\Desktop\\Week 7 - Programming Lab - Cristhian Carcamo\\Week7Lab-Carcamo\\Week7Lab-Carcamo\\frmRealID.cs",
+              "RelativeDocumentMoniker": "Week7Lab-Carcamo\\frmRealID.cs",
+              "ToolTip": "C:\\Users\\crist\\Desktop\\Week 7 - Programming Lab - Cristhian Carcamo\\Week7Lab-Carcamo\\Week7Lab-Carcamo\\frmRealID.cs [Design]",
+              "RelativeToolTip": "Week7Lab-Carcamo\\frmRealID.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T06:35:15.137Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

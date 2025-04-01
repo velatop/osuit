@@ -1,0 +1,10 @@
+C:\Users\crist\source\repos\Week7Lab-Carcamo\Week7Lab-Carcamo\bin\Debug\Week7Lab-Carcamo.exe.config
+C:\Users\crist\source\repos\Week7Lab-Carcamo\Week7Lab-Carcamo\bin\Debug\Week7Lab-Carcamo.exe
+C:\Users\crist\source\repos\Week7Lab-Carcamo\Week7Lab-Carcamo\bin\Debug\Week7Lab-Carcamo.pdb
+C:\Users\crist\source\repos\Week7Lab-Carcamo\Week7Lab-Carcamo\obj\Debug\Week7Lab-Carcamo.csproj.AssemblyReference.cache
+C:\Users\crist\source\repos\Week7Lab-Carcamo\Week7Lab-Carcamo\obj\Debug\Week7Lab_Carcamo.Properties.Resources.resources
+C:\Users\crist\source\repos\Week7Lab-Carcamo\Week7Lab-Carcamo\obj\Debug\Week7Lab-Carcamo.csproj.GenerateResource.cache
+C:\Users\crist\source\repos\Week7Lab-Carcamo\Week7Lab-Carcamo\obj\Debug\Week7Lab-Carcamo.csproj.CoreCompileInputs.cache
+C:\Users\crist\source\repos\Week7Lab-Carcamo\Week7Lab-Carcamo\obj\Debug\Week7Lab-Carcamo.exe
+C:\Users\crist\source\repos\Week7Lab-Carcamo\Week7Lab-Carcamo\obj\Debug\Week7Lab-Carcamo.pdb
+C:\Users\crist\source\repos\Week7Lab-Carcamo\Week7Lab-Carcamo\obj\Debug\Week7Lab_Carcamo.frmRealID.resources
