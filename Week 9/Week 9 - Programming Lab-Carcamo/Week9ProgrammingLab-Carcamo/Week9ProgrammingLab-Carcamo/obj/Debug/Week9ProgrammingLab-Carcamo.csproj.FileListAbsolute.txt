@@ -1,0 +1,10 @@
+C:\Users\crist\source\repos\Week9ProgrammingLab-Carcamo\Week9ProgrammingLab-Carcamo\obj\Debug\Week9ProgrammingLab-Carcamo.csproj.AssemblyReference.cache
+C:\Users\crist\source\repos\Week9ProgrammingLab-Carcamo\Week9ProgrammingLab-Carcamo\obj\Debug\Week9ProgrammingLab_Carcamo.Properties.Resources.resources
+C:\Users\crist\source\repos\Week9ProgrammingLab-Carcamo\Week9ProgrammingLab-Carcamo\obj\Debug\Week9ProgrammingLab-Carcamo.csproj.GenerateResource.cache
+C:\Users\crist\source\repos\Week9ProgrammingLab-Carcamo\Week9ProgrammingLab-Carcamo\obj\Debug\Week9ProgrammingLab-Carcamo.csproj.CoreCompileInputs.cache
+C:\Users\crist\source\repos\Week9ProgrammingLab-Carcamo\Week9ProgrammingLab-Carcamo\bin\Debug\Week9ProgrammingLab-Carcamo.exe.config
+C:\Users\crist\source\repos\Week9ProgrammingLab-Carcamo\Week9ProgrammingLab-Carcamo\bin\Debug\Week9ProgrammingLab-Carcamo.exe
+C:\Users\crist\source\repos\Week9ProgrammingLab-Carcamo\Week9ProgrammingLab-Carcamo\bin\Debug\Week9ProgrammingLab-Carcamo.pdb
+C:\Users\crist\source\repos\Week9ProgrammingLab-Carcamo\Week9ProgrammingLab-Carcamo\obj\Debug\Week9ProgrammingLab-Carcamo.exe
+C:\Users\crist\source\repos\Week9ProgrammingLab-Carcamo\Week9ProgrammingLab-Carcamo\obj\Debug\Week9ProgrammingLab-Carcamo.pdb
+C:\Users\crist\source\repos\Week9ProgrammingLab-Carcamo\Week9ProgrammingLab-Carcamo\obj\Debug\Week9ProgrammingLab_Carcamo.frmCheckDigit.resources
