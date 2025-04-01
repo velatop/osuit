@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\crist\\Desktop\\Week 10 - Programming Lab - Cristhian Carcamo\\Section3Week8toWeek10Programming Lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{77061F95-1C55-4BEC-85B2-1C8EA0F615F7}|Section3Week8toWeek10Programming Lab\\Section3Week8toWeek10Programming Lab.csproj|c:\\users\\crist\\desktop\\week 10 - programming lab - cristhian carcamo\\section3week8toweek10programming lab\\section3week8toweek10programming lab\\frmtextstatsprocessor.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77061F95-1C55-4BEC-85B2-1C8EA0F615F7}|Section3Week8toWeek10Programming Lab\\Section3Week8toWeek10Programming Lab.csproj|solutionrelative:section3week8toweek10programming lab\\frmtextstatsprocessor.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77061F95-1C55-4BEC-85B2-1C8EA0F615F7}|Section3Week8toWeek10Programming Lab\\Section3Week8toWeek10Programming Lab.csproj|C:\\Users\\crist\\Desktop\\Week 10 - Programming Lab - Cristhian Carcamo\\Section3Week8toWeek10Programming Lab\\section3week8toweek10programming lab\\frmtextstatsprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77061F95-1C55-4BEC-85B2-1C8EA0F615F7}|Section3Week8toWeek10Programming Lab\\Section3Week8toWeek10Programming Lab.csproj|solutionrelative:section3week8toweek10programming lab\\frmtextstatsprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77061F95-1C55-4BEC-85B2-1C8EA0F615F7}|Section3Week8toWeek10Programming Lab\\Section3Week8toWeek10Programming Lab.csproj|C:\\Users\\crist\\Desktop\\Week 10 - Programming Lab - Cristhian Carcamo\\Section3Week8toWeek10Programming Lab\\section3week8toweek10programming lab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77061F95-1C55-4BEC-85B2-1C8EA0F615F7}|Section3Week8toWeek10Programming Lab\\Section3Week8toWeek10Programming Lab.csproj|solutionrelative:section3week8toweek10programming lab\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77061F95-1C55-4BEC-85B2-1C8EA0F615F7}|Section3Week8toWeek10Programming Lab\\Section3Week8toWeek10Programming Lab.csproj|C:\\Users\\crist\\Desktop\\Week 10 - Programming Lab - Cristhian Carcamo\\Section3Week8toWeek10Programming Lab\\section3week8toweek10programming lab\\frmtextstatsprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{77061F95-1C55-4BEC-85B2-1C8EA0F615F7}|Section3Week8toWeek10Programming Lab\\Section3Week8toWeek10Programming Lab.csproj|solutionrelative:section3week8toweek10programming lab\\frmtextstatsprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmTextStatsProcessor.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\crist\\Desktop\\Week 10 - Programming Lab - Cristhian Carcamo\\Section3Week8toWeek10Programming Lab\\Section3Week8toWeek10Programming Lab\\frmTextStatsProcessor.Designer.cs",
+              "RelativeDocumentMoniker": "Section3Week8toWeek10Programming Lab\\frmTextStatsProcessor.Designer.cs",
+              "ToolTip": "C:\\Users\\crist\\Desktop\\Week 10 - Programming Lab - Cristhian Carcamo\\Section3Week8toWeek10Programming Lab\\Section3Week8toWeek10Programming Lab\\frmTextStatsProcessor.Designer.cs",
+              "RelativeToolTip": "Section3Week8toWeek10Programming Lab\\frmTextStatsProcessor.Designer.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAgwBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T23:33:46.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\crist\\Desktop\\Week 10 - Programming Lab - Cristhian Carcamo\\Section3Week8toWeek10Programming Lab\\Section3Week8toWeek10Programming Lab\\Program.cs",
+              "RelativeDocumentMoniker": "Section3Week8toWeek10Programming Lab\\Program.cs",
+              "ToolTip": "C:\\Users\\crist\\source\\repos\\Section3Week8toWeek10Programming Lab\\Section3Week8toWeek10Programming Lab\\Program.cs*",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\Section3Week8toWeek10Programming Lab\\Section3Week8toWeek10Programming Lab\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T16:29:21.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmTextStatsProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\crist\\Desktop\\Week 10 - Programming Lab - Cristhian Carcamo\\Section3Week8toWeek10Programming Lab\\Section3Week8toWeek10Programming Lab\\frmTextStatsProcessor.cs",
+              "RelativeDocumentMoniker": "Section3Week8toWeek10Programming Lab\\frmTextStatsProcessor.cs",
+              "ToolTip": "C:\\Users\\crist\\source\\repos\\Section3Week8toWeek10Programming Lab\\Section3Week8toWeek10Programming Lab\\frmTextStatsProcessor.cs*",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\Section3Week8toWeek10Programming Lab\\Section3Week8toWeek10Programming Lab\\frmTextStatsProcessor.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T16:18:01.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmTextStatsProcessor.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\crist\\Desktop\\Week 10 - Programming Lab - Cristhian Carcamo\\Section3Week8toWeek10Programming Lab\\Section3Week8toWeek10Programming Lab\\frmTextStatsProcessor.cs",
+              "RelativeDocumentMoniker": "Section3Week8toWeek10Programming Lab\\frmTextStatsProcessor.cs",
+              "ToolTip": "C:\\Users\\crist\\source\\repos\\Section3Week8toWeek10Programming Lab\\Section3Week8toWeek10Programming Lab\\frmTextStatsProcessor.cs [Design]*",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\Section3Week8toWeek10Programming Lab\\Section3Week8toWeek10Programming Lab\\frmTextStatsProcessor.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T16:16:50.459Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\crist\\Desktop\\Lab Portion of the Section 3 Exam\\Sec3LabExam-Carcamo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D265D77-CBF2-490F-BE55-213256464AA0}|Sec3LabExam-Carcamo\\Sec3LabExam-Carcamo.csproj|c:\\users\\crist\\desktop\\lab portion of the section 3 exam\\sec3labexam-carcamo\\sec3labexam-carcamo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D265D77-CBF2-490F-BE55-213256464AA0}|Sec3LabExam-Carcamo\\Sec3LabExam-Carcamo.csproj|solutionrelative:sec3labexam-carcamo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D265D77-CBF2-490F-BE55-213256464AA0}|Sec3LabExam-Carcamo\\Sec3LabExam-Carcamo.csproj|C:\\Users\\crist\\Desktop\\Lab Portion of the Section 3 Exam\\Sec3LabExam-Carcamo\\sec3labexam-carcamo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D265D77-CBF2-490F-BE55-213256464AA0}|Sec3LabExam-Carcamo\\Sec3LabExam-Carcamo.csproj|solutionrelative:sec3labexam-carcamo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D265D77-CBF2-490F-BE55-213256464AA0}|Sec3LabExam-Carcamo\\Sec3LabExam-Carcamo.csproj|C:\\Users\\crist\\Desktop\\Lab Portion of the Section 3 Exam\\Sec3LabExam-Carcamo\\sec3labexam-carcamo\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D265D77-CBF2-490F-BE55-213256464AA0}|Sec3LabExam-Carcamo\\Sec3LabExam-Carcamo.csproj|solutionrelative:sec3labexam-carcamo\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D265D77-CBF2-490F-BE55-213256464AA0}|Sec3LabExam-Carcamo\\Sec3LabExam-Carcamo.csproj|C:\\Users\\crist\\Desktop\\Lab Portion of the Section 3 Exam\\Sec3LabExam-Carcamo\\sec3labexam-carcamo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3D265D77-CBF2-490F-BE55-213256464AA0}|Sec3LabExam-Carcamo\\Sec3LabExam-Carcamo.csproj|solutionrelative:sec3labexam-carcamo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\crist\\Desktop\\Lab Portion of the Section 3 Exam\\Sec3LabExam-Carcamo\\Sec3LabExam-Carcamo\\Program.cs",
+              "RelativeDocumentMoniker": "Sec3LabExam-Carcamo\\Program.cs",
+              "ToolTip": "C:\\Users\\crist\\Desktop\\Lab Portion of the Section 3 Exam\\Sec3LabExam-Carcamo\\Sec3LabExam-Carcamo\\Program.cs",
+              "RelativeToolTip": "Sec3LabExam-Carcamo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T03:04:07.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\crist\\Desktop\\Lab Portion of the Section 3 Exam\\Sec3LabExam-Carcamo\\Sec3LabExam-Carcamo\\Form1.cs",
+              "RelativeDocumentMoniker": "Sec3LabExam-Carcamo\\Form1.cs",
+              "ToolTip": "C:\\Users\\crist\\Desktop\\Lab Portion of the Section 3 Exam\\Sec3LabExam-Carcamo\\Sec3LabExam-Carcamo\\Form1.cs",
+              "RelativeToolTip": "Sec3LabExam-Carcamo\\Form1.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAUwGkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T03:06:11.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\crist\\Desktop\\Lab Portion of the Section 3 Exam\\Sec3LabExam-Carcamo\\Sec3LabExam-Carcamo\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Sec3LabExam-Carcamo\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\crist\\Desktop\\Lab Portion of the Section 3 Exam\\Sec3LabExam-Carcamo\\Sec3LabExam-Carcamo\\Form1.Designer.cs",
+              "RelativeToolTip": "Sec3LabExam-Carcamo\\Form1.Designer.cs",
+              "ViewState": "AgIAAMYAAAAAAAAAAAAuwAoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T03:04:10.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\crist\\Desktop\\Lab Portion of the Section 3 Exam\\Sec3LabExam-Carcamo\\Sec3LabExam-Carcamo\\Form1.cs",
+              "RelativeDocumentMoniker": "Sec3LabExam-Carcamo\\Form1.cs",
+              "ToolTip": "C:\\Users\\crist\\source\\repos\\Sec3LabExam-Carcamo\\Sec3LabExam-Carcamo\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\Sec3LabExam-Carcamo\\Sec3LabExam-Carcamo\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T01:00:09.608Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
