@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\crist\\Desktop\\Section 1 - Week 1 to Week 3 Programming Lab - Cristhian Carcamo\\CarcamoLabWeek1And3_Solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D0DB8995-3092-426C-9246-D0E49CC3E092}|CarcamoLabWeek1And3_Project\\CarcamoLabWeek1And3_Project.csproj|c:\\users\\crist\\desktop\\section 1 - week 1 to week 3 programming lab - cristhian carcamo\\carcamolabweek1and3_solution\\carcamolabweek1and3_project\\frmcarcamo.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0DB8995-3092-426C-9246-D0E49CC3E092}|CarcamoLabWeek1And3_Project\\CarcamoLabWeek1And3_Project.csproj|solutionrelative:carcamolabweek1and3_project\\frmcarcamo.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0DB8995-3092-426C-9246-D0E49CC3E092}|CarcamoLabWeek1And3_Project\\CarcamoLabWeek1And3_Project.csproj|C:\\Users\\crist\\Desktop\\Section 1 - Week 1 to Week 3 Programming Lab - Cristhian Carcamo\\CarcamoLabWeek1And3_Solution\\carcamolabweek1and3_project\\frmcarcamo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0DB8995-3092-426C-9246-D0E49CC3E092}|CarcamoLabWeek1And3_Project\\CarcamoLabWeek1And3_Project.csproj|solutionrelative:carcamolabweek1and3_project\\frmcarcamo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0DB8995-3092-426C-9246-D0E49CC3E092}|CarcamoLabWeek1And3_Project\\CarcamoLabWeek1And3_Project.csproj|C:\\Users\\crist\\Desktop\\Section 1 - Week 1 to Week 3 Programming Lab - Cristhian Carcamo\\CarcamoLabWeek1And3_Solution\\carcamolabweek1and3_project\\frmcarcamo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D0DB8995-3092-426C-9246-D0E49CC3E092}|CarcamoLabWeek1And3_Project\\CarcamoLabWeek1And3_Project.csproj|solutionrelative:carcamolabweek1and3_project\\frmcarcamo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 305,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmCarcamo.cs",
+              "DocumentMoniker": "C:\\Users\\crist\\Desktop\\Section 1 - Week 1 to Week 3 Programming Lab - Cristhian Carcamo\\CarcamoLabWeek1And3_Solution\\CarcamoLabWeek1And3_Project\\frmCarcamo.cs",
+              "RelativeDocumentMoniker": "CarcamoLabWeek1And3_Project\\frmCarcamo.cs",
+              "ToolTip": "C:\\Users\\crist\\Desktop\\Section 1 - Week 1 to Week 3 Programming Lab - Cristhian Carcamo\\CarcamoLabWeek1And3_Solution\\CarcamoLabWeek1And3_Project\\frmCarcamo.cs",
+              "RelativeToolTip": "CarcamoLabWeek1And3_Project\\frmCarcamo.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAUwAgAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T20:03:12.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmCarcamo.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\crist\\Desktop\\Section 1 - Week 1 to Week 3 Programming Lab - Cristhian Carcamo\\CarcamoLabWeek1And3_Solution\\CarcamoLabWeek1And3_Project\\frmCarcamo.Designer.cs",
+              "RelativeDocumentMoniker": "CarcamoLabWeek1And3_Project\\frmCarcamo.Designer.cs",
+              "ToolTip": "C:\\Users\\crist\\Desktop\\Section 1 - Week 1 to Week 3 Programming Lab - Cristhian Carcamo\\CarcamoLabWeek1And3_Solution\\CarcamoLabWeek1And3_Project\\frmCarcamo.Designer.cs",
+              "RelativeToolTip": "CarcamoLabWeek1And3_Project\\frmCarcamo.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T20:03:02.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmCarcamo.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\crist\\Desktop\\Section 1 - Week 1 to Week 3 Programming Lab - Cristhian Carcamo\\CarcamoLabWeek1And3_Solution\\CarcamoLabWeek1And3_Project\\frmCarcamo.cs",
+              "RelativeDocumentMoniker": "CarcamoLabWeek1And3_Project\\frmCarcamo.cs",
+              "ToolTip": "C:\\Users\\crist\\source\\repos\\CarcamoLabWeek1And3_Solution\\CarcamoLabWeek1And3_Project\\frmCarcamo.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\CarcamoLabWeek1And3_Solution\\CarcamoLabWeek1And3_Project\\frmCarcamo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T20:02:37.211Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

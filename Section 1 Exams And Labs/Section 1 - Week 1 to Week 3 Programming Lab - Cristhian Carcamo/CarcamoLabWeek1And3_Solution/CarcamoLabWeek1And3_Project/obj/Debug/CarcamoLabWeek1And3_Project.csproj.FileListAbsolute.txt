@@ -1,0 +1,20 @@
+C:\Users\crist\source\repos\CarcamoLabWeek1And3_Solution\CarcamoLabWeek1And3_Project\bin\Debug\CarcamoLabWeek1And3_Project.exe.config
+C:\Users\crist\source\repos\CarcamoLabWeek1And3_Solution\CarcamoLabWeek1And3_Project\bin\Debug\CarcamoLabWeek1And3_Project.exe
+C:\Users\crist\source\repos\CarcamoLabWeek1And3_Solution\CarcamoLabWeek1And3_Project\bin\Debug\CarcamoLabWeek1And3_Project.pdb
+C:\Users\crist\source\repos\CarcamoLabWeek1And3_Solution\CarcamoLabWeek1And3_Project\obj\Debug\CarcamoLabWeek1And3_Project.csproj.AssemblyReference.cache
+C:\Users\crist\source\repos\CarcamoLabWeek1And3_Solution\CarcamoLabWeek1And3_Project\obj\Debug\CarcamoLabWeek1And3_Project.Properties.Resources.resources
+C:\Users\crist\source\repos\CarcamoLabWeek1And3_Solution\CarcamoLabWeek1And3_Project\obj\Debug\CarcamoLabWeek1And3_Project.csproj.GenerateResource.cache
+C:\Users\crist\source\repos\CarcamoLabWeek1And3_Solution\CarcamoLabWeek1And3_Project\obj\Debug\CarcamoLabWeek1And3_Project.csproj.CoreCompileInputs.cache
+C:\Users\crist\source\repos\CarcamoLabWeek1And3_Solution\CarcamoLabWeek1And3_Project\obj\Debug\CarcamoLabWeek1And3_Project.exe
+C:\Users\crist\source\repos\CarcamoLabWeek1And3_Solution\CarcamoLabWeek1And3_Project\obj\Debug\CarcamoLabWeek1And3_Project.pdb
+C:\Users\crist\source\repos\CarcamoLabWeek1And3_Solution\CarcamoLabWeek1And3_Project\obj\Debug\CarcamoLabWeek1And3_Project.frmCarcamo.resources
+C:\Users\crist\Desktop\Section 1 - Week 1 to Week 3 Programming Lab - Cristhian Carcamo\CarcamoLabWeek1And3_Solution\CarcamoLabWeek1And3_Project\bin\Debug\CarcamoLabWeek1And3_Project.exe.config
+C:\Users\crist\Desktop\Section 1 - Week 1 to Week 3 Programming Lab - Cristhian Carcamo\CarcamoLabWeek1And3_Solution\CarcamoLabWeek1And3_Project\bin\Debug\CarcamoLabWeek1And3_Project.exe
+C:\Users\crist\Desktop\Section 1 - Week 1 to Week 3 Programming Lab - Cristhian Carcamo\CarcamoLabWeek1And3_Solution\CarcamoLabWeek1And3_Project\bin\Debug\CarcamoLabWeek1And3_Project.pdb
+C:\Users\crist\Desktop\Section 1 - Week 1 to Week 3 Programming Lab - Cristhian Carcamo\CarcamoLabWeek1And3_Solution\CarcamoLabWeek1And3_Project\obj\Debug\CarcamoLabWeek1And3_Project.csproj.AssemblyReference.cache
+C:\Users\crist\Desktop\Section 1 - Week 1 to Week 3 Programming Lab - Cristhian Carcamo\CarcamoLabWeek1And3_Solution\CarcamoLabWeek1And3_Project\obj\Debug\CarcamoLabWeek1And3_Project.frmCarcamo.resources
+C:\Users\crist\Desktop\Section 1 - Week 1 to Week 3 Programming Lab - Cristhian Carcamo\CarcamoLabWeek1And3_Solution\CarcamoLabWeek1And3_Project\obj\Debug\CarcamoLabWeek1And3_Project.Properties.Resources.resources
+C:\Users\crist\Desktop\Section 1 - Week 1 to Week 3 Programming Lab - Cristhian Carcamo\CarcamoLabWeek1And3_Solution\CarcamoLabWeek1And3_Project\obj\Debug\CarcamoLabWeek1And3_Project.csproj.GenerateResource.cache
+C:\Users\crist\Desktop\Section 1 - Week 1 to Week 3 Programming Lab - Cristhian Carcamo\CarcamoLabWeek1And3_Solution\CarcamoLabWeek1And3_Project\obj\Debug\CarcamoLabWeek1And3_Project.csproj.CoreCompileInputs.cache
+C:\Users\crist\Desktop\Section 1 - Week 1 to Week 3 Programming Lab - Cristhian Carcamo\CarcamoLabWeek1And3_Solution\CarcamoLabWeek1And3_Project\obj\Debug\CarcamoLabWeek1And3_Project.exe
+C:\Users\crist\Desktop\Section 1 - Week 1 to Week 3 Programming Lab - Cristhian Carcamo\CarcamoLabWeek1And3_Solution\CarcamoLabWeek1And3_Project\obj\Debug\CarcamoLabWeek1And3_Project.pdb
